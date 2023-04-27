@@ -1,0 +1,1030 @@
+[
+    {
+        "name": "ABDULLAH GÜL ÜNİVERSİTESİ",
+        "email": "@agu.edu.tr",
+        "id": "2891358192090425693"
+    },
+    {
+        "name": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
+        "email": "@acibadem.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@atu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ADIYAMAN ÜNİVERSİTESİ",
+        "email": "@adiyaman.edu.tr",
+        "id": "7292012713831648372"
+    },
+    {
+        "name": "AFYON KOCATEPE ÜNİVERSİTESİ",
+        "email": "@aku.edu.tr",
+        "id": "9096641677954743180"
+    },
+    {
+        "name": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "email": "@afsu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+        "email": "@agri.edu.tr",
+        "id": "687837675918442840"
+    },
+    {
+        "name": "AKDENİZ ÜNİVERSİTESİ",
+        "email": "@akdeniz.edu.tr",
+        "id": "17900425013852246786"
+    },
+    {
+        "name": "AKSARAY ÜNİVERSİTESİ",
+        "email": "@aksaray.edu.tr",
+        "id": "12618469171079150997"
+    },
+    {
+        "name": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ",
+        "email": "@alanya.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ALANYA ÜNİVERSİTESİ",
+        "email": null,
+        "id": null
+    },
+    {
+        "name": "ALTINBAŞ ÜNİVERSİTESİ",
+        "email": "@altinbas.edu.tr",
+        "id": null
+    },
+    {
+        "name": "AMASYA ÜNİVERSİTESİ",
+        "email": "@amasya.edu.tr",
+        "id": "17102418538847565449"
+    },
+    {
+        "name": "ANADOLU ÜNİVERSİTESİ",
+        "email": "@anadolu.edu.tr",
+        "id": "2749142531614161643"
+    },
+    {
+        "name": "ANKARA BİLİM ÜNİVERSİTESİ",
+        "email": "@ankarabilim.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+        "email": "@hbv.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+        "email": "@ankaramedipol.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+        "email": "@mgu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+        "email": "@asbu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANKARA ÜNİVERSİTESİ",
+        "email": "@ankara.edu.tr",
+        "id": "10637576479501333415"
+    },
+    {
+        "name": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+        "email": "@ybu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANTALYA BELEK ÜNİVERSİTESİ",
+
+        "email": "@belek.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ANTALYA BİLİM ÜNİVERSİTESİ",
+        "email": "@antalya.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ARDAHAN ÜNİVERSİTESİ",
+        "email": "@ardahan.edu.tr",
+        "id": "9235018501493933539"
+    },
+    {
+        "name": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+        "email": "@artvin.edu.tr",
+        "id": "8791531619305975579"
+    },
+    {
+        "name": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+        "email": "@adiguzel.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ATATÜRK ÜNİVERSİTESİ",
+        "email": "@atauni.edu.tr",
+        "id": "7782451084611169620"
+    },
+    {
+        "name": "ATILIM ÜNİVERSİTESİ",
+        "email": "@atilim.edu.tr",
+        "id": "4246491470274445468"
+    },
+    {
+        "name": "AVRASYA ÜNİVERSİTESİ",
+        "email": "@avrasya.edu.tr",
+        "id": null
+    },
+    {
+        "name": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+        "email": "@adu.edu.tr",
+        "id": "4352303650088514208"
+    },
+    {
+        "name": "BAHÇEŞEHİR ÜNİVERSİTESİ",
+        "email": "@bau.edu.tr",
+        "id": "223111687192553806"
+    },
+    {
+        "name": "BALIKESİR ÜNİVERSİTESİ",
+        "email": "@balikesir.edu.tr",
+        "id": "10937482765114087381"
+    },
+    {
+        "name": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ",
+        "email": "@bandirma.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BARTIN ÜNİVERSİTESİ",
+        "email": "@bartin.edu.tr",
+        "id": "4863966577552973570"
+    },
+    {
+        "name": "BAŞKENT ÜNİVERSİTESİ",
+        "email": "@baskent.edu.tr",
+        "id": "9573964049722336584"
+    },
+    {
+        "name": "BATMAN ÜNİVERSİTESİ",
+        "email": "@batman.edu.tr",
+        "id": "4167750145041915817"
+    },
+    {
+        "name": "BAYBURT ÜNİVERSİTESİ",
+        "email": "@bayburt.edu.tr",
+        "id": "6937103425407644152"
+    },
+    {
+        "name": "BEYKOZ ÜNİVERSİTESİ",
+        "email": "@beykoz.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
+        "email": "@bezmialem.edu.tr",
+        "id": "3949327330660781309"
+    },
+    {
+        "name": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+        "email": "@bilecik.edu.tr",
+        "id": "6351565688994957855"
+    },
+    {
+        "name": "BİNGÖL ÜNİVERSİTESİ",
+        "email": "@bingol.edu.tr",
+        "id": "3464531547582027407"
+    },
+    {
+        "name": "BİRUNİ ÜNİVERSİTESİ",
+        "email": "@biruni.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BİTLİS EREN ÜNİVERSİTESİ",
+        "email": "@beu.edu.tr",
+        "id": "17653906365347584722"
+    },
+    {
+        "name": "BOĞAZİÇİ ÜNİVERSİTESİ",
+        "email": "@boun.edu.tr",
+        "id": "3386604019048112482"
+    },
+    {
+        "name": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+        "email": "@ibu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+        "email": "@mehmetakif.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BURSA TEKNİK ÜNİVERSİTESİ",
+        "email": "@btu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+        "email": "@uludag.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ÇAĞ ÜNİVERSİTESİ",
+        "email": "@cag.edu.tr",
+        "id": "4572935396542511279"
+    },
+    {
+        "name": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+        "email": "@comu.edu.tr",
+        "id": "18024379306742476119"
+    },
+    {
+        "name": "ÇANKAYA ÜNİVERSİTESİ",
+        "email": "@cankaya.edu.tr",
+        "id": "1784839632947296755"
+    },
+    {
+        "name": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+        "email": "@karatekin.edu.tr",
+        "id": "7230379590533932021"
+    },
+    {
+        "name": "ÇUKUROVA ÜNİVERSİTESİ",
+        "email": "@cu.edu.tr",
+        "id": "1780320102225170076"
+    },
+    {
+        "name": "DEMİROĞLU BİLİM ÜNİVERSİTESİ",
+        "email": "@demiroglu.bilim.edu.tr",
+        "id": null
+    },
+    {
+        "name": "DİCLE ÜNİVERSİTESİ",
+        "email": "@dicle.edu.tr",
+        "id": "10673090188642655085"
+    },
+    {
+        "name": "DOĞUŞ ÜNİVERSİTESİ",
+        "email": "@dogus.edu.tr",
+        "id": "2047350057707616384"
+    },
+    {
+        "name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+        "email": "@deu.edu.tr",
+        "id": "1216950024195647715"
+    },
+    {
+        "name": "DÜZCE ÜNİVERSİTESİ",
+        "email": "@duzce.edu.tr",
+        "id": "14169379070805863712"
+    },
+    {
+        "name": "EGE ÜNİVERSİTESİ",
+        "email": "@ege.edu.tr",
+        "id": "2132109780519676157"
+    },
+    {
+        "name": "ERCİYES ÜNİVERSİTESİ",
+        "email": "@erciyes.edu.tr",
+        "id": "4197650350673644477"
+    },
+    {
+        "name": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+        "email": "@erzincan.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+        "email": "@erzurum.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+        "email": "@ogu.edu.tr",
+        "id": "4995632992154669000"
+    },
+    {
+        "name": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+        "email": "@eskisehir.edu.tr",
+        "id": null
+    },
+    {
+        "name": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ",
+        "email": "@fsm.edu.tr",
+        "id": null
+    },
+    {
+        "name": "FENERBAHÇE ÜNİVERSİTESİ",
+        "email": "@fbu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "FIRAT ÜNİVERSİTESİ",
+        "email": "@firat.edu.tr",
+        "id": "9827046694027850503"
+    },
+    {
+        "name": "GALATASARAY ÜNİVERSİTESİ",
+        "email": "@gsu.edu.tr",
+        "id": "811678055528458522"
+    },
+    {
+        "name": "GAZİ ÜNİVERSİTESİ",
+        "email": "@gazi.edu.tr",
+        "id": "16466720366002481050"
+    },
+    {
+        "name": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@gibtu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "GAZİANTEP ÜNİVERSİTESİ",
+        "email": "@gantep.edu.tr",
+        "id": "15022258561119978945"
+    },
+    {
+        "name": "GEBZE TEKNİK ÜNİVERSİTESİ",
+        "email": "@gtu.edu.tr",
+        "id": "7442445798423984698"
+    },
+    {
+        "name": "GİRESUN ÜNİVERSİTESİ",
+        "email": "@giresun.edu.tr",
+        "id": "5838996376504878615"
+    },
+    {
+        "name": "GÜMÜŞHANE ÜNİVERSİTESİ",
+        "email": "@gumushane.edu.tr",
+        "id": "13848634053004573213"
+    },
+    {
+        "name": "HACETTEPE ÜNİVERSİTESİ",
+        "email": "@hacettepe.edu.tr",
+        "id": "2182971719771222960"
+    },
+    {
+        "name": "HAKKARİ ÜNİVERSİTESİ",
+        "email": "@hakkari.edu.tr",
+        "id": null
+    },
+    {
+        "name": "HALİÇ ÜNİVERSİTESİ",
+        "email": "@halic.edu.tr",
+        "id": null
+    },
+    {
+        "name": "HARRAN ÜNİVERSİTESİ",
+        "email": "@harran.edu.tr",
+        "id": "11089718605214122940"
+    },
+    {
+        "name": "HASAN KALYONCU ÜNİVERSİTESİ",
+        "email": "@hku.edu.tr",
+        "id": "6467558712411623146"
+    },
+    {
+        "name": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+        "email": "@mku.edu.tr",
+        "id": null
+    },
+    {
+        "name": "HİTİT ÜNİVERSİTESİ",
+        "email": "@hitit.edu.tr",
+        "id": "17040838537336439971"
+    },
+    {
+        "name": "IĞDIR ÜNİVERSİTESİ",
+        "email": "@igdir.edu.tr",
+        "id": "12565733760739719353"
+    },
+    {
+        "name": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+        "email": "@isparta.edu.tr",
+        "id": null
+    },
+    {
+        "name": "IŞIK ÜNİVERSİTESİ",
+        "email": "@isikun.edu.tr",
+        "id": "18152663315520511871"
+    },
+    {
+        "name": "İBN HALDUN ÜNİVERSİTESİ",
+        "email": "@ihu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ",
+        "email": "@bilkent.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İNÖNÜ ÜNİVERSİTESİ",
+        "email": "@inonu.edu.tr",
+        "id": "4410794897583563855"
+    },
+    {
+        "name": "İSKENDERUN TEKNİK ÜNİVERSİTESİ",
+        "email": "@iste.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL AREL ÜNİVERSİTESİ",
+        "email": "@arel.edu.tr",
+        "id": "7164476823872919254"
+    },
+    {
+        "name": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+        "email": "@atlas.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+        "email": "@aydin.edu.tr",
+        "id": "2893101121071699034"
+    },
+    {
+        "name": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+        "email": "@beykent.edu.tr",
+        "id": "13379776645833116023"
+    },
+    {
+        "name": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+        "email": "@bilgi.edu.tr",
+        "id": "9659499961502424667"
+    },
+    {
+        "name": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+        "email": "@esenyurt.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL GALATA ÜNİVERSİTESİ",
+        "email": "@galata.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+        "email": "@gedik.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+        "email": "@gelisim.edu.tr",
+        "id": "5351684016450178317"
+    },
+    {
+        "name": "İSTANBUL KENT ÜNİVERSİTESİ",
+        "email": "@kent.edu.tr",
+        "id": " null"
+    },
+    {
+        "name": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+
+        "email": "@iku.edu.tr",
+        "id": "15657960824959967760"
+    },
+    {
+        "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+        "email": "@medeniyet.edu.tr",
+        "id": "18002318662187731445"
+    },
+    {
+        "name": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+        "email": "@medipol.edu.tr",
+        "id": "5149549873977555614"
+    },
+    {
+        "name": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+        "email": "@nisantasi.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL OKAN ÜNİVERSİTESİ",
+        "email": "@okan.edu.tr",
+        "id": "9023040491321731031"
+    },
+    {
+        "name": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+        "email": "@rumeli.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+        "email": "@izu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+        "email": "@issb.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@istun.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+        "email": "@sisli.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+        "email": "@itu.edu.tr",
+        "id": "14760346591542189634"
+    },
+    {
+        "name": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+        "email": "@ticaret.edu.tr",
+        "id": "8485805441164025333"
+    },
+    {
+        "name": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+        "email": "@topkapi.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL ÜNİVERSİTESİ",
+        "email": "@istanbul.edu.tr",
+        "id": "3158271535158939655"
+    },
+    {
+        "name": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+        "email": "@iuc.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+        "email": "@yeniyuzyil.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+        "email": "@29mayis.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İSTİNYE ÜNİVERSİTESİ",
+        "email": "@istinye.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+        "email": "@bakircay.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+        "email": "@idu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+        "email": "@ieu.edu.tr",
+        "id": "17984104486527568922"
+    },
+    {
+        "name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+        "email": "@ikc.edu.tr",
+        "id": "14440854437601027621"
+    },
+    {
+        "name": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+        "email": "@kavram.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+        "email": "@tinaztepe.edu.tr",
+        "id": null
+    },
+    {
+        "name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+        "email": "@iyte.edu.tr",
+        "id": "3469451614477890030"
+    },
+    {
+        "name": "KADİR HAS ÜNİVERSİTESİ",
+        "email": "@khas.edu.tr",
+        "id": "11278233775478802795"
+    },
+    {
+        "name": "KAFKAS ÜNİVERSİTESİ",
+        "email": "@kafkas.edu.tr",
+        "id": "2110073873992895235"
+    },
+    {
+        "name": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+        "email": "@istiklal.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+        "email": "@ksu.edu.tr",
+        "id": "816641060252681866"
+    },
+    {
+        "name": "KAPADOKYA ÜNİVERSİTESİ",
+        "email": "@kapadokya.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KARABÜK ÜNİVERSİTESİ",
+        "email": "@karabuk.edu.tr",
+        "id": "10087234333761069962"
+    },
+    {
+        "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+        "email": "@ktu.edu.tr",
+        "id": "1194164664763799802"
+    },
+    {
+        "name": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
+        "email": "@kmu.edu.tr",
+        "id": "7029257630663087180"
+    },
+    {
+        "name": "KASTAMONU ÜNİVERSİTESİ",
+        "email": "@kastamonu.edu.tr",
+        "id": "8388912630919056295"
+    },
+    {
+        "name": "KAYSERİ ÜNİVERSİTESİ",
+        "email": "@kayseri.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KIRIKKALE ÜNİVERSİTESİ",
+        "email": "@kku.edu.tr",
+        "id": "812113166130826106"
+    },
+    {
+        "name": "KIRKLARELİ ÜNİVERSİTESİ",
+        "email": "@klu.edu.tr",
+        "id": "6196893134459997842"
+    },
+    {
+        "name": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+        "email": "@ahievran.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+        "email": "@kilis.edu.tr",
+        "id": "13998181014256723862"
+    },
+    {
+        "name": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@kocaelisaglik.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KOCAELİ ÜNİVERSİTESİ",
+        "email": "@kocaeli.edu.tr",
+        "id": "1399209775104414089"
+    },
+    {
+        "name": "KOÇ ÜNİVERSİTESİ",
+        "email": "@ku.edu.tr",
+        "id": "16206489257869091749"
+    },
+    {
+        "name": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+        "email": "@gidatarim.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KONYA TEKNİK ÜNİVERSİTESİ",
+        "email": "@ktun.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KTO KARATAY ÜNİVERSİTESİ",
+        "email": "@karatay.edu.tr",
+        "id": "5773910750916266490"
+    },
+    {
+        "name": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+        "email": "@dpu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "email": "@ksbu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "LOKMAN HEKİM ÜNİVERSİTESİ",
+        "email": "@lokmanhekim.edu.tr",
+        "id": null
+    },
+    {
+        "name": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+        "email": "@ozal.edu.tr",
+        "id": null
+    },
+    {
+        "name": "MALTEPE ÜNİVERSİTESİ",
+        "email": "@maltepe.edu.tr",
+        "id": "5796920796583171376"
+    },
+    {
+        "name": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+        "email": "@cbu.edu.tr",
+        "id": "1082322411261776110"
+    },
+    {
+        "name": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+        "email": "@artuklu.edu.tr",
+        "id": "737543140808584029"
+    },
+    {
+        "name": "MARMARA ÜNİVERSİTESİ",
+        "email": "@marmara.edu.tr",
+        "id": "12281825707374341566"
+    },
+    {
+        "name": "MEF ÜNİVERSİTESİ",
+        "email": "@mef.edu.tr",
+        "id": "16000583691575337834"
+    },
+    {
+        "name": "MERSİN ÜNİVERSİTESİ",
+        "email": "@mersin.edu.tr",
+        "id": "5819124055235678906"
+    },
+    {
+        "name": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
+        "email": "@msgsu.edu.tr",
+        "id": "7744362350301206671"
+    },
+    {
+        "name": "MUDANYA ÜNİVERSİTESİ",
+        "email": "@mudanya.edu.tr",
+        "id": null
+    },
+    {
+        "name": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+        "email": "@mu.edu.tr",
+        "id": "9121794270692532574"
+    },
+    {
+        "name": "MUNZUR ÜNİVERSİTESİ",
+        "email": "@munzur.edu.tr",
+        "id": null
+    },
+    {
+        "name": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+        "email": "@alparslan.edu.tr",
+        "id": "15095243430282138043"
+    },
+    {
+        "name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+        "email": "@erbakan.edu.tr",
+        "id": "3718895648412331050"
+    },
+    {
+        "name": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+        "email": "@nevsehir.edu.tr",
+        "id": "16901798712826698809"
+    },
+    {
+        "name": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+        "email": "@ohu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "NUH NACİ YAZGAN ÜNİVERSİTESİ",
+        "email": "@nny.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
+
+        "email": "@omu.edu.tr",
+        "id": "17747267089419932290"
+    },
+    {
+        "name": "ORDU ÜNİVERSİTESİ",
+        "email": "@odu.edu.tr",
+        "id": "6442168948928170490"
+    },
+    {
+        "name": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+        "email": "@metu.edu.tr",
+        "id": "9340431717369407499"
+    },
+    {
+        "name": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+        "email": "@osmaniye.edu.tr",
+        "id": "17549879215819011300"
+    },
+    {
+        "name": "OSTİM TEKNİK ÜNİVERSİTESİ",
+        "email": "@ostimteknik.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ÖZYEĞİN ÜNİVERSİTESİ",
+        "email": "@ozyegin.edu.tr",
+        "id": "6779972203352857406"
+    },
+    {
+        "name": "PAMUKKALE ÜNİVERSİTESİ",
+        "email": "@pau.edu.tr",
+        "id": "3057224847283131345"
+    },
+    {
+        "name": "PİRİ REİS ÜNİVERSİTESİ",
+        "email": "@pirireis.edu.tr",
+        "id": null
+    },
+    {
+        "name": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
+        "email": "@erdogan.edu.tr",
+        "id": "16993642188147827064"
+    },
+    {
+        "name": "SABANCI ÜNİVERSİTESİ",
+        "email": "@sabanciuniv.edu",
+        "id": "17952247820335193681"
+    },
+    {
+        "name": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+        "email": "@sbu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+        "email": "@subu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "SAKARYA ÜNİVERSİTESİ",
+        "email": "@sakarya.edu.tr",
+        "id": "11256784414184154164"
+    },
+    {
+        "name": "SAMSUN ÜNİVERSİTESİ",
+        "email": "@samsun.edu.tr",
+        "id": null
+    },
+    {
+        "name": "SANKO ÜNİVERSİTESİ",
+        "email": "@sanko.edu.tr",
+        "id": null
+    },
+    {
+        "name": "SELÇUK ÜNİVERSİTESİ",
+        "email": "@selcuk.edu.tr",
+        "id": "11119727517381673836"
+    },
+    {
+        "name": "SİİRT ÜNİVERSİTESİ",
+        "email": "@siirt.edu.tr",
+        "id": "15752744456919146801"
+    },
+    {
+        "name": "SİNOP ÜNİVERSİTESİ",
+        "email": "@sinop.edu.tr",
+        "id": "12066932903106164709"
+    },
+    {
+        "name": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@sivas.edu.tr",
+        "id": null
+    },
+    {
+        "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+        "email": "@cumhuriyet.edu.tr",
+        "id": "2548377225819538924"
+    },
+    {
+        "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+        "email": "@sdu.edu.tr",
+        "id": "7681616424760516879"
+    },
+    {
+        "name": "ŞIRNAK ÜNİVERSİTESİ",
+        "email": "@sirnak.edu.tr",
+        "id": null
+    },
+    {
+        "name": "TARSUS ÜNİVERSİTESİ",
+        "email": "@tarsus.edu.tr",
+        "id": null
+    },
+    {
+        "name": "TED ÜNİVERSİTESİ",
+        "email": "@tedu.edu.tr",
+        "id": "8200473173289166961"
+    },
+    {
+        "name": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+        "email": "@nku.edu.tr",
+        "id": null
+    },
+    {
+        "name": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+        "email": "@etu.edu.tr",
+        "id": "459152543518040107"
+    },
+    {
+        "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+        "email": "@gop.edu.tr",
+        "id": "12323586758214875648"
+    },
+    {
+        "name": "TOROS ÜNİVERSİTESİ",
+        "email": "@toros.edu.tr",
+        "id": null
+    },
+    {
+        "name": "TRABZON ÜNİVERSİTESİ",
+        "email": "@trabzon.edu.tr",
+        "id": null
+    },
+    {
+        "name": "TRAKYA ÜNİVERSİTESİ",
+        "email": "@trakya.edu.tr",
+        "id": "5050863976934442271"
+    },
+    {
+        "name": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+        "email": "@thk.edu.tr",
+        "id": "2498309911744850540"
+    },
+    {
+        "name": "TÜRK-ALMAN ÜNİVERSİTESİ",
+        "email": "@tau.edu.tr",
+        "id": null
+    },
+    {
+        "name": "UFUK ÜNİVERSİTESİ",
+        "email": "@ufuk.edu.tr",
+        "id": null
+    },
+    {
+        "name": "UŞAK ÜNİVERSİTESİ",
+        "email": "@usak.edu.tr",
+        "id": "16376098756046382137"
+    },
+    {
+        "name": "ÜSKÜDAR ÜNİVERSİTESİ",
+        "email": "@uskudar.edu.tr",
+        "id": "13262384943191130749"
+    },
+    {
+        "name": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+        "email": "@yyu.edu.tr",
+        "id": "12186831363835899896"
+    },
+    {
+        "name": "YALOVA ÜNİVERSİTESİ",
+        "email": "@yalova.edu.tr",
+        "id": "10280878611605931144"
+    },
+    {
+        "name": "YAŞAR ÜNİVERSİTESİ",
+        "email": "@yasar.edu.tr",
+        "id": "3290508832415677230"
+    },
+    {
+        "name": "YEDİTEPE ÜNİVERSİTESİ",
+        "email": "@yeditepe.edu.tr",
+        "id": "1953162253075334831"
+    },
+    {
+        "name": "YILDIZ TEKNİK ÜNİVERSİTESİ",
+        "email": "@yildiz.edu.tr",
+        "id": "15671903391998263220"
+    },
+    {
+        "name": "YOZGAT BOZOK ÜNİVERSİTESİ",
+        "email": "@bozok.edu.tr",
+        "id": null
+    },
+    {
+        "name": "YÜKSEK İHTİSAS ÜNİVERSİTESİ",
+        "email": "@yiu.edu.tr",
+        "id": null
+    },
+    {
+        "name": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+        "email": "@beun.edu.tr",
+        "id": "2917675462995008681"
+    }
+]
