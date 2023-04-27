@@ -34,7 +34,7 @@ for uni in data[START:END]:
 
         page = (count // 10) + 1
 
-    print(f'found {count} authors')
+    print(f'\nfound {count} authors')
     uniCount += 1
 
     with open(f'./scholar/{name}.json', 'w', encoding='utf-8') as f:
