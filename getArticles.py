@@ -4,13 +4,11 @@ import copy
 from scholarly import scholarly
 
 SLEEP = 1
-START = 0
-END = 10
+START = 0   # BURASI DEGISECEK
+END = 10    # BURASI DEGISECEK
 
 with open("universitiesWithIds.json", "r", encoding="utf-8") as f:
     data = json.load(f)
-
-# data = [uni for uni in data if uni['id']]
 
 total = 1
 uniCount = 1
