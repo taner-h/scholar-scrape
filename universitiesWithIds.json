@@ -1,0 +1,821 @@
+[
+  {
+    "index": 0,
+    "name": "ABDULLAH GÜL ÜNİVERSİTESİ",
+    "email": "@agu.edu.tr",
+    "id": "2891358192090425693",
+    "authorCount": 165
+  },
+  {
+    "index": 1,
+    "name": "ADIYAMAN ÜNİVERSİTESİ",
+    "email": "@adiyaman.edu.tr",
+    "id": "7292012713831648372",
+    "authorCount": 355
+  },
+  {
+    "index": 2,
+    "name": "AFYON KOCATEPE ÜNİVERSİTESİ",
+    "email": "@aku.edu.tr",
+    "id": "9096641677954743180",
+    "authorCount": 530
+  },
+  {
+    "index": 3,
+    "name": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+    "email": "@agri.edu.tr",
+    "id": "687837675918442840",
+    "authorCount": 278
+  },
+  {
+    "index": 4,
+    "name": "AKDENİZ ÜNİVERSİTESİ",
+    "email": "@akdeniz.edu.tr",
+    "id": "17900425013852246786",
+    "authorCount": 1342
+  },
+  {
+    "index": 5,
+    "name": "AKSARAY ÜNİVERSİTESİ",
+    "email": "@aksaray.edu.tr",
+    "id": "12618469171079150997",
+    "authorCount": 441
+  },
+  {
+    "index": 6,
+    "name": "AMASYA ÜNİVERSİTESİ",
+    "email": "@amasya.edu.tr",
+    "id": "17102418538847565449",
+    "authorCount": 312
+  },
+  {
+    "index": 7,
+    "name": "ANADOLU ÜNİVERSİTESİ",
+    "email": "@anadolu.edu.tr",
+    "id": "2749142531614161643",
+    "authorCount": 929
+  },
+  {
+    "index": 8,
+    "name": "ANKARA ÜNİVERSİTESİ",
+    "email": "@ankara.edu.tr",
+    "id": "10637576479501333415",
+    "authorCount": 1922
+  },
+  {
+    "index": 9,
+    "name": "ARDAHAN ÜNİVERSİTESİ",
+    "email": "@ardahan.edu.tr",
+    "id": "9235018501493933539",
+    "authorCount": 146
+  },
+  {
+    "index": 10,
+    "name": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+    "email": "@artvin.edu.tr",
+    "id": "8791531619305975579",
+    "authorCount": 306
+  },
+  {
+    "index": 11,
+    "name": "ATATÜRK ÜNİVERSİTESİ",
+    "email": "@atauni.edu.tr",
+    "id": "7782451084611169620",
+    "authorCount": 1661
+  },
+  {
+    "index": 12,
+    "name": "ATILIM ÜNİVERSİTESİ",
+    "email": "@atilim.edu.tr",
+    "id": "4246491470274445468",
+    "authorCount": 228
+  },
+  {
+    "index": 13,
+    "name": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+    "email": "@adu.edu.tr",
+    "id": "4352303650088514208",
+    "authorCount": 562
+  },
+  {
+    "index": 14,
+    "name": "BAHÇEŞEHİR ÜNİVERSİTESİ",
+    "email": "@bau.edu.tr",
+    "id": "223111687192553806",
+    "authorCount": 109
+  },
+  {
+    "index": 15,
+    "name": "BALIKESİR ÜNİVERSİTESİ",
+    "email": "@balikesir.edu.tr",
+    "id": "10937482765114087381",
+    "authorCount": 508
+  },
+  {
+    "index": 16,
+    "name": "BARTIN ÜNİVERSİTESİ",
+    "email": "@bartin.edu.tr",
+    "id": "4863966577552973570",
+    "authorCount": 532
+  },
+  {
+    "index": 17,
+    "name": "BAŞKENT ÜNİVERSİTESİ",
+    "email": "@baskent.edu.tr",
+    "id": "9573964049722336584",
+    "authorCount": 559
+  },
+  {
+    "index": 18,
+    "name": "BATMAN ÜNİVERSİTESİ",
+    "email": "@batman.edu.tr",
+    "id": "4167750145041915817",
+    "authorCount": 315
+  },
+  {
+    "index": 19,
+    "name": "BAYBURT ÜNİVERSİTESİ",
+    "email": "@bayburt.edu.tr",
+    "id": "6937103425407644152",
+    "authorCount": 239
+  },
+  {
+    "index": 20,
+    "name": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
+    "email": "@bezmialem.edu.tr",
+    "id": "3949327330660781309",
+    "authorCount": 199
+  },
+  {
+    "index": 21,
+    "name": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+    "email": "@bilecik.edu.tr",
+    "id": "6351565688994957855",
+    "authorCount": 366
+  },
+  {
+    "index": 22,
+    "name": "BİNGÖL ÜNİVERSİTESİ",
+    "email": "@bingol.edu.tr",
+    "id": "3464531547582027407",
+    "authorCount": 345
+  },
+  {
+    "index": 23,
+    "name": "BİTLİS EREN ÜNİVERSİTESİ",
+    "email": "@beu.edu.tr",
+    "id": "17653906365347584722",
+    "authorCount": 214
+  },
+  {
+    "index": 24,
+    "name": "BOĞAZİÇİ ÜNİVERSİTESİ",
+    "email": "@boun.edu.tr",
+    "id": "3386604019048112482",
+    "authorCount": 884
+  },
+  {
+    "index": 25,
+    "name": "ÇAĞ ÜNİVERSİTESİ",
+    "email": "@cag.edu.tr",
+    "id": "4572935396542511279",
+    "authorCount": 57
+  },
+  {
+    "index": 26,
+    "name": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+    "email": "@comu.edu.tr",
+    "id": "18024379306742476119",
+    "authorCount": 672
+  },
+  {
+    "index": 27,
+    "name": "ÇANKAYA ÜNİVERSİTESİ",
+    "email": "@cankaya.edu.tr",
+    "id": "1784839632947296755",
+    "authorCount": 150
+  },
+  {
+    "index": 28,
+    "name": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+    "email": "@karatekin.edu.tr",
+    "id": "7230379590533932021",
+    "authorCount": 307
+  },
+  {
+    "index": 29,
+    "name": "ÇUKUROVA ÜNİVERSİTESİ",
+    "email": "@cu.edu.tr",
+    "id": "1780320102225170076",
+    "authorCount": 955
+  },
+  {
+    "index": 30,
+    "name": "DİCLE ÜNİVERSİTESİ",
+    "email": "@dicle.edu.tr",
+    "id": "10673090188642655085",
+    "authorCount": 471
+  },
+  {
+    "index": 31,
+    "name": "DOĞUŞ ÜNİVERSİTESİ",
+    "email": "@dogus.edu.tr",
+    "id": "2047350057707616384",
+    "authorCount": 158
+  },
+  {
+    "index": 32,
+    "name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    "email": "@deu.edu.tr",
+    "id": "1216950024195647715",
+    "authorCount": 1583
+  },
+  {
+    "index": 33,
+    "name": "DÜZCE ÜNİVERSİTESİ",
+    "email": "@duzce.edu.tr",
+    "id": "14169379070805863712",
+    "authorCount": 640
+  },
+  {
+    "index": 34,
+    "name": "EGE ÜNİVERSİTESİ",
+    "email": "@ege.edu.tr",
+    "id": "2132109780519676157",
+    "authorCount": 1619
+  },
+  {
+    "index": 35,
+    "name": "ERCİYES ÜNİVERSİTESİ",
+    "email": "@erciyes.edu.tr",
+    "id": "4197650350673644477",
+    "authorCount": 1129
+  },
+  {
+    "index": 36,
+    "name": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+    "email": "@ogu.edu.tr",
+    "id": "4995632992154669000",
+    "authorCount": 1198
+  },
+  {
+    "index": 37,
+    "name": "FIRAT ÜNİVERSİTESİ",
+    "email": "@firat.edu.tr",
+    "id": "9827046694027850503",
+    "authorCount": 1163
+  },
+  {
+    "index": 38,
+    "name": "GALATASARAY ÜNİVERSİTESİ",
+    "email": "@gsu.edu.tr",
+    "id": "811678055528458522",
+    "authorCount": 137
+  },
+  {
+    "index": 39,
+    "name": "GAZİ ÜNİVERSİTESİ",
+    "email": "@gazi.edu.tr",
+    "id": "16466720366002481050",
+    "authorCount": 2013
+  },
+  {
+    "index": 40,
+    "name": "GAZİANTEP ÜNİVERSİTESİ",
+    "email": "@gantep.edu.tr",
+    "id": "15022258561119978945",
+    "authorCount": 563
+  },
+  {
+    "index": 41,
+    "name": "GEBZE TEKNİK ÜNİVERSİTESİ",
+    "email": "@gtu.edu.tr",
+    "id": "7442445798423984698",
+    "authorCount": 13
+  },
+  {
+    "index": 42,
+    "name": "GİRESUN ÜNİVERSİTESİ",
+    "email": "@giresun.edu.tr",
+    "id": "5838996376504878615",
+    "authorCount": 481
+  },
+  {
+    "index": 43,
+    "name": "GÜMÜŞHANE ÜNİVERSİTESİ",
+    "email": "@gumushane.edu.tr",
+    "id": "13848634053004573213",
+    "authorCount": 338
+  },
+  {
+    "index": 44,
+    "name": "HACETTEPE ÜNİVERSİTESİ",
+    "email": "@hacettepe.edu.tr",
+    "id": "2182971719771222960",
+    "authorCount": 2193
+  },
+  {
+    "index": 45,
+    "name": "HARRAN ÜNİVERSİTESİ",
+    "email": "@harran.edu.tr",
+    "id": "11089718605214122940",
+    "authorCount": 788
+  },
+  {
+    "index": 46,
+    "name": "HASAN KALYONCU ÜNİVERSİTESİ",
+    "email": "@hku.edu.tr",
+    "id": "6467558712411623146",
+    "authorCount": 235
+  },
+  {
+    "index": 47,
+    "name": "HİTİT ÜNİVERSİTESİ",
+    "email": "@hitit.edu.tr",
+    "id": "17040838537336439971",
+    "authorCount": 519
+  },
+  {
+    "index": 48,
+    "name": "IĞDIR ÜNİVERSİTESİ",
+    "email": "@igdir.edu.tr",
+    "id": "12565733760739719353",
+    "authorCount": 312
+  },
+  {
+    "index": 49,
+    "name": "IŞIK ÜNİVERSİTESİ",
+    "email": "@isikun.edu.tr",
+    "id": "18152663315520511871",
+    "authorCount": 91
+  },
+  {
+    "index": 50,
+    "name": "İNÖNÜ ÜNİVERSİTESİ",
+    "email": "@inonu.edu.tr",
+    "id": "4410794897583563855",
+    "authorCount": 925
+  },
+  {
+    "index": 51,
+    "name": "İSTANBUL AREL ÜNİVERSİTESİ",
+    "email": "@arel.edu.tr",
+    "id": "7164476823872919254",
+    "authorCount": 179
+  },
+  {
+    "index": 52,
+    "name": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+    "email": "@aydin.edu.tr",
+    "id": "2893101121071699034",
+    "authorCount": 508
+  },
+  {
+    "index": 53,
+    "name": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+    "email": "@beykent.edu.tr",
+    "id": "13379776645833116023",
+    "authorCount": 262
+  },
+  {
+    "index": 54,
+    "name": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+    "email": "@bilgi.edu.tr",
+    "id": "9659499961502424667",
+    "authorCount": 200
+  },
+  {
+    "index": 55,
+    "name": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+    "email": "@gelisim.edu.tr",
+    "id": "5351684016450178317",
+    "authorCount": 660
+  },
+  {
+    "index": 56,
+    "name": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+    "email": "@iku.edu.tr",
+    "id": "15657960824959967760",
+    "authorCount": 159
+  },
+  {
+    "index": 57,
+    "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+    "email": "@medeniyet.edu.tr",
+    "id": "18002318662187731445",
+    "authorCount": 474
+  },
+  {
+    "index": 58,
+    "name": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+    "email": "@medipol.edu.tr",
+    "id": "5149549873977555614",
+    "authorCount": 624
+  },
+  {
+    "index": 59,
+    "name": "İSTANBUL OKAN ÜNİVERSİTESİ",
+    "email": "@okan.edu.tr",
+    "id": "9023040491321731031",
+    "authorCount": 85
+  },
+  {
+    "index": 60,
+    "name": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+    "email": "@itu.edu.tr",
+    "id": "14760346591542189634",
+    "authorCount": 2584
+  },
+  {
+    "index": 61,
+    "name": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+    "email": "@ticaret.edu.tr",
+    "id": "8485805441164025333",
+    "authorCount": 222
+  },
+  {
+    "index": 62,
+    "name": "İSTANBUL ÜNİVERSİTESİ",
+    "email": "@istanbul.edu.tr",
+    "id": "3158271535158939655",
+    "authorCount": 2552
+  },
+  {
+    "index": 63,
+    "name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    "email": "@ieu.edu.tr",
+    "id": "17984104486527568922",
+    "authorCount": 228
+  },
+  {
+    "index": 64,
+    "name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    "email": "@ikc.edu.tr",
+    "id": "14440854437601027621",
+    "authorCount": 380
+  },
+  {
+    "index": 65,
+    "name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    "email": "@iyte.edu.tr",
+    "id": "3469451614477890030",
+    "authorCount": 416
+  },
+  {
+    "index": 66,
+    "name": "KADİR HAS ÜNİVERSİTESİ",
+    "email": "@khas.edu.tr",
+    "id": "11278233775478802795",
+    "authorCount": 219
+  },
+  {
+    "index": 67,
+    "name": "KAFKAS ÜNİVERSİTESİ",
+    "email": "@kafkas.edu.tr",
+    "id": "2110073873992895235",
+    "authorCount": 305
+  },
+  {
+    "index": 68,
+    "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+    "email": "@ksu.edu.tr",
+    "id": "816641060252681866",
+    "authorCount": 464
+  },
+  {
+    "index": 69,
+    "name": "KARABÜK ÜNİVERSİTESİ",
+    "email": "@karabuk.edu.tr",
+    "id": "10087234333761069962",
+    "authorCount": 639
+  },
+  {
+    "index": 70,
+    "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+    "email": "@ktu.edu.tr",
+    "id": "1194164664763799802",
+    "authorCount": 1257
+  },
+  {
+    "index": 71,
+    "name": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
+    "email": "@kmu.edu.tr",
+    "id": "7029257630663087180",
+    "authorCount": 417
+  },
+  {
+    "index": 72,
+    "name": "KASTAMONU ÜNİVERSİTESİ",
+    "email": "@kastamonu.edu.tr",
+    "id": "8388912630919056295",
+    "authorCount": 602
+  },
+  {
+    "index": 73,
+    "name": "KIRIKKALE ÜNİVERSİTESİ",
+    "email": "@kku.edu.tr",
+    "id": "812113166130826106",
+    "authorCount": 492
+  },
+  {
+    "index": 74,
+    "name": "KIRKLARELİ ÜNİVERSİTESİ",
+    "email": "@klu.edu.tr",
+    "id": "6196893134459997842",
+    "authorCount": 378
+  },
+  {
+    "index": 75,
+    "name": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+    "email": "@kilis.edu.tr",
+    "id": "13998181014256723862",
+    "authorCount": 219
+  },
+  {
+    "index": 76,
+    "name": "KOCAELİ ÜNİVERSİTESİ",
+    "email": "@kocaeli.edu.tr",
+    "id": "1399209775104414089",
+    "authorCount": 1006
+  },
+  {
+    "index": 77,
+    "name": "KOÇ ÜNİVERSİTESİ",
+    "email": "@ku.edu.tr",
+    "id": "16206489257869091749",
+    "authorCount": 1018
+  },
+  {
+    "index": 78,
+    "name": "KTO KARATAY ÜNİVERSİTESİ",
+    "email": "@karatay.edu.tr",
+    "id": "5773910750916266490",
+    "authorCount": 113
+  },
+  {
+    "index": 79,
+    "name": "MALTEPE ÜNİVERSİTESİ",
+    "email": "@maltepe.edu.tr",
+    "id": "5796920796583171376",
+    "authorCount": 268
+  },
+  {
+    "index": 80,
+    "name": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+    "email": "@cbu.edu.tr",
+    "id": "1082322411261776110",
+    "authorCount": 379
+  },
+  {
+    "index": 81,
+    "name": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+    "email": "@artuklu.edu.tr",
+    "id": "737543140808584029",
+    "authorCount": 242
+  },
+  {
+    "index": 82,
+    "name": "MARMARA ÜNİVERSİTESİ",
+    "email": "@marmara.edu.tr",
+    "id": "12281825707374341566",
+    "authorCount": 2245
+  },
+  {
+    "index": 83,
+    "name": "MEF ÜNİVERSİTESİ",
+    "email": "@mef.edu.tr",
+    "id": "16000583691575337834",
+    "authorCount": 76
+  },
+  {
+    "index": 84,
+    "name": "MERSİN ÜNİVERSİTESİ",
+    "email": "@mersin.edu.tr",
+    "id": "5819124055235678906",
+    "authorCount": 773
+  },
+  {
+    "index": 85,
+    "name": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
+    "email": "@msgsu.edu.tr",
+    "id": "7744362350301206671",
+    "authorCount": 203
+  },
+  {
+    "index": 86,
+    "name": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+    "email": "@mu.edu.tr",
+    "id": "9121794270692532574",
+    "authorCount": 980
+  },
+  {
+    "index": 87,
+    "name": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+    "email": "@alparslan.edu.tr",
+    "id": "15095243430282138043",
+    "authorCount": 369
+  },
+  {
+    "index": 88,
+    "name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+    "email": "@erbakan.edu.tr",
+    "id": "3718895648412331050",
+    "authorCount": 186
+  },
+  {
+    "index": 89,
+    "name": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+    "email": "@nevsehir.edu.tr",
+    "id": "16901798712826698809",
+    "authorCount": 357
+  },
+  {
+    "index": 90,
+    "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
+    "email": "@omu.edu.tr",
+    "id": "17747267089419932290",
+    "authorCount": 1209
+  },
+  {
+    "index": 91,
+    "name": "ORDU ÜNİVERSİTESİ",
+    "email": "@odu.edu.tr",
+    "id": "6442168948928170490",
+    "authorCount": 343
+  },
+  {
+    "index": 92,
+    "name": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+    "email": "@metu.edu.tr",
+    "id": "9340431717369407499",
+    "authorCount": 2203
+  },
+  {
+    "index": 93,
+    "name": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+    "email": "@osmaniye.edu.tr",
+    "id": "17549879215819011300",
+    "authorCount": 226
+  },
+  {
+    "index": 94,
+    "name": "ÖZYEĞİN ÜNİVERSİTESİ",
+    "email": "@ozyegin.edu.tr",
+    "id": "6779972203352857406",
+    "authorCount": 364
+  },
+  {
+    "index": 95,
+    "name": "PAMUKKALE ÜNİVERSİTESİ",
+    "email": "@pau.edu.tr",
+    "id": "3057224847283131345",
+    "authorCount": 1061
+  },
+  {
+    "index": 96,
+    "name": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
+    "email": "@erdogan.edu.tr",
+    "id": "16993642188147827064",
+    "authorCount": 588
+  },
+  {
+    "index": 97,
+    "name": "SABANCI ÜNİVERSİTESİ",
+    "email": "@sabanciuniv.edu",
+    "id": "17952247820335193681",
+    "authorCount": 523
+  },
+  {
+    "index": 98,
+    "name": "SAKARYA ÜNİVERSİTESİ",
+    "email": "@sakarya.edu.tr",
+    "id": "11256784414184154164",
+    "authorCount": 1256
+  },
+  {
+    "index": 99,
+    "name": "SELÇUK ÜNİVERSİTESİ",
+    "email": "@selcuk.edu.tr",
+    "id": "11119727517381673836",
+    "authorCount": 1453
+  },
+  {
+    "index": 100,
+    "name": "SİİRT ÜNİVERSİTESİ",
+    "email": "@siirt.edu.tr",
+    "id": "15752744456919146801",
+    "authorCount": 295
+  },
+  {
+    "index": 101,
+    "name": "SİNOP ÜNİVERSİTESİ",
+    "email": "@sinop.edu.tr",
+    "id": "12066932903106164709",
+    "authorCount": 282
+  },
+  {
+    "index": 102,
+    "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+    "email": "@cumhuriyet.edu.tr",
+    "id": "2548377225819538924",
+    "authorCount": 522
+  },
+  {
+    "index": 103,
+    "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+    "email": "@sdu.edu.tr",
+    "id": "7681616424760516879",
+    "authorCount": 1047
+  },
+  {
+    "index": 104,
+    "name": "TED ÜNİVERSİTESİ",
+    "email": "@tedu.edu.tr",
+    "id": "8200473173289166961",
+    "authorCount": 132
+  },
+  {
+    "index": 105,
+    "name": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "email": "@etu.edu.tr",
+    "id": "459152543518040107",
+    "authorCount": 276
+  },
+  {
+    "index": 106,
+    "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+    "email": "@gop.edu.tr",
+    "id": "12323586758214875648",
+    "authorCount": 278
+  },
+  {
+    "index": 107,
+    "name": "TRAKYA ÜNİVERSİTESİ",
+    "email": "@trakya.edu.tr",
+    "id": "5050863976934442271",
+    "authorCount": 769
+  },
+  {
+    "index": 108,
+    "name": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+    "email": "@thk.edu.tr",
+    "id": "2498309911744850540",
+    "authorCount": 69
+  },
+  {
+    "index": 109,
+    "name": "UŞAK ÜNİVERSİTESİ",
+    "email": "@usak.edu.tr",
+    "id": "16376098756046382137",
+    "authorCount": 431
+  },
+  {
+    "index": 110,
+    "name": "ÜSKÜDAR ÜNİVERSİTESİ",
+    "email": "@uskudar.edu.tr",
+    "id": "13262384943191130749",
+    "authorCount": 291
+  },
+  {
+    "index": 111,
+    "name": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "email": "@yyu.edu.tr",
+    "id": "12186831363835899896",
+    "authorCount": 859
+  },
+  {
+    "index": 112,
+    "name": "YALOVA ÜNİVERSİTESİ",
+    "email": "@yalova.edu.tr",
+    "id": "10280878611605931144",
+    "authorCount": 287
+  },
+  {
+    "index": 113,
+    "name": "YAŞAR ÜNİVERSİTESİ",
+    "email": "@yasar.edu.tr",
+    "id": "3290508832415677230",
+    "authorCount": 185
+  },
+  {
+    "index": 114,
+    "name": "YEDİTEPE ÜNİVERSİTESİ",
+    "email": "@yeditepe.edu.tr",
+    "id": "1953162253075334831",
+    "authorCount": 405
+  },
+  {
+    "index": 115,
+    "name": "YILDIZ TEKNİK ÜNİVERSİTESİ",
+    "email": "@yildiz.edu.tr",
+    "id": "15671903391998263220",
+    "authorCount": 1466
+  },
+  {
+    "index": 116,
+    "name": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+    "email": "@beun.edu.tr",
+    "id": "2917675462995008681",
+    "authorCount": 324
+  }
+]
