@@ -4,7 +4,7 @@ import copy
 from scholarly import scholarly
 
 SLEEP = 1
-START = 0   # BURASI DEGISECEK
+START = 0  # BURASI DEGISECEK
 END = 10    # BURASI DEGISECEK
 
 with open("universitiesWithIds.json", "r", encoding="utf-8") as f:
@@ -34,26 +34,30 @@ for uni in data[START:END]:
 
         time.sleep(SLEEP)
 
-        time1 = time.time()
+        try:
+            time1 = time.time()
 
-        authorUnfilled = scholarly.search_author_id(authorId)
-        authorFilled = scholarly.fill(
-            authorUnfilled, sections=['publications'])
+            authorUnfilled = scholarly.search_author_id(authorId)
+            authorFilled = scholarly.fill(
+                authorUnfilled, sections=['publications'])
 
-        time2 = time.time()
+            time2 = time.time()
 
-        articleCount = len(authorFilled.get('publications', []))
-        timeSpent = round(time2 - time1, 2)
+            articleCount = len(authorFilled.get('publications', []))
+            timeSpent = round(time2 - time1, 2)
 
-        print(
-            f"found author with {articleCount} articles in {timeSpent} seconds ({total})")
+            print(
+                f"found author with {articleCount} articles in {timeSpent} seconds ({total})")
 
-        universityData[index] = authorFilled
+            universityData[index] = authorFilled
 
-        with open(f'./data/{name}.json', 'w', encoding='utf-8') as f:
-            json.dump(universityData, f, ensure_ascii=False, indent=4)
+            with open(f'./data/{name}.json', 'w', encoding='utf-8') as f:
+                json.dump(universityData, f, ensure_ascii=False, indent=4)
 
-        total += 1
+            total += 1
+
+        except Exception as e:
+            print(f"Error: {e} - author: {authorId}")
 
     with open(f'./data/{name}.json', 'w', encoding='utf-8') as f:
         json.dump(universityData, f, ensure_ascii=False, indent=4)
